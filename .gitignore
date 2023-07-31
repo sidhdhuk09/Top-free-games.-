@@ -1,0 +1,3 @@
+# place all the files and folders where you never want tot take something with you for example virtualenv or sensitive information. 
+venv
+__pycache__ 
